@@ -1,7 +1,7 @@
 {
   "show": true,
-  "title": "%#FF5555%⚔ SIEGE LIVE%#%",
-  "body": "%#E8B84A%Imperium Romanum%#% %#AAAAAA%vs%#% %#5DADE2%Thracian Dominion%#% %#AAAAAA%at%#% **Thexan**",
+  "title": "%#E8B84A%CCNet Modpack Feed%#%",
+  "body": "%#AAAAAA% News and session timings will show up here.%#%",
   "latest": "2.0.0",
   "outdated": "1.9.0"
 }
